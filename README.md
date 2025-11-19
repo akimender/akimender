@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi I'm Andrew! 👋
 
-🎯 Andrew Kim
 Applied Mathematics and Computer Science at Brown University
 Software Engineering and Machine Learning
 
